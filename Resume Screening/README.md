@@ -26,13 +26,7 @@
 - `Classifier.py` is the main file which is containing a KNN Algorithm.
 - Admin side credentials is `vijay123` and password is `vijay123`. 
 
-## Screenshots
 
-## User side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc1.png">
-
-## Admin Side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc2.png">
 
 
 
